@@ -56,3 +56,6 @@ target/
 # Zipped files
 *.gz
 *.zip
+
+# IPython notebook files
+*.ipynb*
